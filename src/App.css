@@ -1,0 +1,8 @@
+.body{
+    backgroundColor: "#282D35";
+}
+
+::marker{
+    color: #61DAFB;
+    font-size: 3rem;
+}
